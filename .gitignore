@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+
+# PyCharm settings
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Course-provided dataset (not redistributed)
+data/
+CoffeeMachinemaxAgg.txt
+CoffeeMachinemaxApp.txt
+Input_Data.txt
+Output_Data.txt
+
+# Generated model weights and run outputs
+*.h5
+*.keras
+*.png
+*.csv
